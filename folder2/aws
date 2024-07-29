@@ -1,0 +1,5 @@
+GIT MERGE CONFLICTS:
+GIT makes merging super easy!
+CONFLICTS generally araise when two people two people have changed the same lines in a fi le (or) if one developer deleted a fi le while another developer is working on the same fi le!
+In this situation git cannot determine what is correct!
+Lets understand in a simple way!
